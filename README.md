@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend almost 8 hours playing Clash of Clans everyday.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishanbagchi&&show_icons=true&hide=["stars","issues"]&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=ishanbagchi&&show_icons=true&hide=['stars','issues']&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
