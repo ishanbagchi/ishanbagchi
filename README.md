@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours playing Clash of Clans everyday.
 
-![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanbagchi&show_icons=true&hide=["stars","issues"]&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanbagchi&show_icons=true&hide=["stars","issues"]&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
