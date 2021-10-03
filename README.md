@@ -1,4 +1,4 @@
-# Hi there, I'm Ishan - aka [ib.perman][website]<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm **Ishan**
 
 <table width="100%"> 
   <tr>
@@ -11,7 +11,7 @@
       </ul>
     </td>
     <td width="50%">
-      <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+      <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
     </td>
 
   </tr>
@@ -27,7 +27,7 @@
 
   </td>
   <td width="50%">
-    <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+    <img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   </td>
 </table>
 
