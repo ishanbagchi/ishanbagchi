@@ -2,7 +2,7 @@
 
 <table width="100%"> 
   <tr>
-    <td width="60%">
+    <td width="50%">
       <h3>I'm a Full Stack Developer</h3>
       <ul>
         <li>📚 I’m currently learning DSA in and out.</li>
@@ -10,7 +10,7 @@
         <li>⚡ Fun fact: I play Table Tennis 🏓</li>
       </ul>
     </td>
-    <td width="40%">
+    <td width="50%">
       <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
     </td>
 
@@ -21,12 +21,12 @@
 
 <table width="100%"> 
   <tr>
-  <td width="60%">
+  <td width="50%">
       
 &nbsp; <br> [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/go7y0s5sofwe71y51sgkul7vd?si=283bbea9ca254d39)
 
   </td>
-  <td width="30%">
+  <td width="50%">
     <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   </td>
 </table>
