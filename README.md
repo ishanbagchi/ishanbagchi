@@ -29,7 +29,7 @@
   <td width="50%">
 
 <br><p align="center">
-<img alt="GIF" width="50%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img alt="GIF"  width="50%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 </p>
   </td>
