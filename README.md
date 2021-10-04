@@ -1,6 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css"></link>
-
-### Hola a todos, I'm <span style="color:#e07a5f">Ishan Bagchi</span>! 👋
 
 <!-- - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning DSA.
@@ -8,14 +9,16 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love exploring different frameworks. -->
 
+<h1>Hello from <span class="txt-color">Ishan Bagchi</span> 👋</h1>
+
 <p align="center">
-  <img src="assets/images/me.png"/>
+  I am a <span class="txt-color">full stack developer</span>, pursuing my B.tech degree from <a href="https://www.sittechno.org/" class="txt-color">SIT</a>. 
 </p>
 
 ---
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagchi&show_icons=true&count_private=true&theme=calm&hide=stars"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagchi&show_icons=true&count_private=true&theme=calm&hide=stars"/>
 </p>
 
 ---
@@ -23,6 +26,10 @@
 <p align="center">
   <a href="https://github.com/ishanbagchi">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://dev.to/ishanbagchi">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 
   <a href="https://linkedin.com/in/ishan-bagchi">
