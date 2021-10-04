@@ -2,11 +2,15 @@
 
 ### Hola a todos, I'm <span style="color:#e07a5f">Ishan Bagchi</span>! 👋
 
-- 🔭 I’m currently working on Web Development.
+<!-- - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning DSA.
 - 💬 Ask me about Node js or any tech related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love exploring different frameworks.
+- ⚡ Fun fact: I love exploring different frameworks. -->
+
+<p align="center">
+  <img src="assets/images/me.png"/>
+</p>
 
 ---
 
