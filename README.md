@@ -1,7 +1,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css"></link>
+<!-- <link rel="stylesheet" href="assets/css/style.css"></link> -->
+
+<style>
+    body {
+    font-family: 'Architects Daughter', cursive;
+  }
+
+  .txt-color {
+    color: #e07a5f;
+  }
+</style>
 
 <!-- - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning DSA.
