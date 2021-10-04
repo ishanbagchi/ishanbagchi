@@ -1,37 +1,21 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
-<!-- <link rel="stylesheet" href="assets/css/style.css"></link> -->
-
-<style>
-    body {
-    font-family: 'Architects Daughter', cursive;
-  }
-
-  .txt-color {
-    color: #e07a5f;
-  }
-</style>
-
-<!-- - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning DSA.
-- 💬 Ask me about Node js or any tech related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love exploring different frameworks. -->
-
-<h1>Hello from <span class="txt-color">Ishan Bagchi</span> 👋</h1>
+<h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-  I am a <span class="txt-color">full stack developer</span>, pursuing my B.tech degree from <a href="https://www.sittechno.org/" class="txt-color">SIT</a>. 
+I'm Ishan, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagchi&show_icons=true&count_private=true&theme=calm&hide=stars"/>
+<h4 align="center">
+💻 hacking <a href="https://www.hackerrank.com/ishanbagchi">@ishanbagchi</a> | 🌱 writing <a href="https://dev.to/ishanbagchi">@dev.to</a> | 💬 connect <a href="https://twitter.com/ishan_bagchi">@ishan_bagchi</a>
+</h4>
+<p  align="center">
+<a href="https://ishanbagchi.github.io/">https://ishanbagchi.github.io</a>
 </p>
 
----
+<br/>
+<h3 align="center">
+My Profiles
+</h3>
+<br/>
 
 <p align="center">
   <a href="https://github.com/ishanbagchi">
@@ -62,6 +46,14 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagchi&show_icons=true&count_private=true&theme=calm&hide=stars"/>
+</p>
+
+![](./assets/images/footer.svg)
 
 [//]: <> (calm: {
 title_color: "e07a5f",
