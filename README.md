@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there <img src="./assets/images/hi.gif" width="25"/></h2>
+<h3 align="center"> Hi there <img src="./assets/images/hi.gif" width="25"/></h3>
 
 <p align="center">
 I'm Ishan, a self-motivated tech enthusiast and full stack web developer.
