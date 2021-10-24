@@ -31,6 +31,10 @@ My Profiles
   </a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ishanbagchi.ishanbagchi">
+</p>
+
 <br/>
 
 <p align="center">
