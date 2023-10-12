@@ -41,10 +41,6 @@ My Profiles
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagchi&show_icons=true&count_private=true&theme=calm&hide=stars"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/ishanbagchi?theme=nord&font=Lato"/>
-</p>
-
 ![Footer Animation](./assets/images/footer.svg)
 
 [//]: <> (calm: {
