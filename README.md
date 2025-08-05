@@ -1,8 +1,7 @@
 <h3 align="center">Hey, I'm Ishan <img src="./assets/images/hi.gif" width="25" alt="Hello waving hand"/></h3>
 
 <p align="center">
-  Full Stack Developer who breaks things to learn fast.<br>
-  I blog so others don’t have to. Always building, always learning.
+  Full Stack Developer who breaks things to learn fast. Blogging so others don’t have to. Always building, always learning.
 </p>
 
 <p align="center" style="line-height: 2;">
@@ -13,15 +12,6 @@
 
 <p align="center">
   <a href="https://ishanbagchi.com"><strong>ishanbagchi.com</strong></a>
-</p>
-
-<br/>
-
-<h3 align="center">🧑‍💻 About Me</h3>
-<p align="center">
-  👋 I'm a passionate Full Stack Developer focused on creating scalable web apps and sharing what I learn.<br>
-  🚀 Currently building with modern JS/TS stacks, exploring distributed systems, and contributing to open source.<br>
-  📝 Always eager to connect, learn, and collaborate!
 </p>
 
 <br/>
@@ -40,7 +30,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:ishanbagchi@gmail.com" aria-label="Email">
+  <a href="mailto:ishanbagchi4@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -84,10 +74,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishanbagchi&show_icons=true&count_private=true&theme=calm&hide=stars" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbagchi&theme=calm" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ishanbagchi&theme=calm&margin-w=10&margin-h=15" alt="GitHub Trophy"/>
 </p>
 
 <p align="center">
@@ -95,11 +81,9 @@
 </p>
 
 <h3 align="center">🎉 Fun Facts</h3>
+
 <p align="center">
-  • 🎸 I play guitar in my free time<br>
-  • 🧘 I meditate daily<br>
-  • 🍣 Sushi is my go-to<br>
-  • 🏃 Love early morning runs
+  🧠 Breaks things to learn faster &nbsp;|&nbsp; ✍️ Blogs so others don’t have to &nbsp;|&nbsp; ☕ Drinks too much coffee &nbsp;|&nbsp; 🎮 Probably debugging or gaming at 2AM
 </p>
 
 <br/>
